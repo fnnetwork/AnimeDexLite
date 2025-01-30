@@ -1,6 +1,6 @@
 // Api urls
 
-const ProxyApi = "https://proxy.techzbots1.workers.dev/?u=";
+const ProxyApi = "https://proxyfn.shubhamkr-sk8016.workers.dev/?u=";
 const animeapi = "/anime/";
 const recommendationsapi = "/recommendations/";
 
